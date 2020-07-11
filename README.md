@@ -57,12 +57,17 @@ Create a Travel Itinerary with a Corresponding Map
 ![WeatherPy_vacation_map png](https://user-images.githubusercontent.com/65969608/87234684-14869b80-c399-11ea-8235-5678fc17976d.png)
 
 
-*Part-3 :
+* Part-3 :
+
+WeatherPy_travel_map:
 
 
 ![WeatherPy_travel_map png](https://user-images.githubusercontent.com/65969608/87234695-29fbc580-c399-11ea-91ba-ccb1b6a00a84.png)
 
 
+
+
+WeatherPy_travel_map_markers
 
 ![WeatherPy_travel_map_markers png](https://user-images.githubusercontent.com/65969608/87234698-354ef100-c399-11ea-81eb-0149dc75b2ed.png)
 
